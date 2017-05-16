@@ -7,6 +7,8 @@ Usage
 -----
 
 `GET /subreddits/update/:subreddit` logs and returns data for `:subreddit` from the top 100 posts
+
+
 `GET /subreddits/stats/:subreddit` aggregates data for `:subreddit` from existing data stored
 
 
